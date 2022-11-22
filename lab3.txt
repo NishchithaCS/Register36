@@ -19,6 +19,6 @@ pw.close();
 </servlet>
 <servlet-mapping>
 <servlet-name>refresh</servlet-name>
-<url-pattern>./test</url-pattern>
+<url-pattern>/refresh</url-pattern>
 </servlet-mapping>
 </web-mapping>
